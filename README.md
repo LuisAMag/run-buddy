@@ -12,3 +12,5 @@ https://github.com/LuisAMag/run-buddy
 
 ## Contribution
 Made with ❤️ by Luis Magallon
+
+## ©️2019 Run Buddy, Inc
